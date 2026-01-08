@@ -1,0 +1,7 @@
+print("Liliana Estefani Nava Gutierrez ")
+print("Empatia, Solidaridad")
+print("Paciencia")
+print("Me gusta ")
+print("Mi cancion favorita es 444")
+print("Mi artista favorito es Duki")
+print("En vacaciones me fui a quedar con mis primas, fue el bautizo de mi hermano")
